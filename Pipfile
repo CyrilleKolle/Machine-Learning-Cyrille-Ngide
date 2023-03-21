@@ -11,8 +11,11 @@ seaborn = "*"
 ipykernel = "*"
 black = "*"
 scikit-learn = "*"
+tensorflow = "*"
+scikit-image = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.9"
